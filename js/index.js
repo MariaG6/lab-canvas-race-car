@@ -110,3 +110,4 @@ window.onload = () => {
       updateObstacles();
     }
   };
+// I need to rewatch the lesson and try again. I will update the lab
